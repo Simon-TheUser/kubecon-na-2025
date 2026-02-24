@@ -7,7 +7,7 @@ metadata:
     terasky.backstage.io/owner: group:default/guests
     terasky.backstage.io/system: backstack-demo
     terasky.backstage.io/source-file-url: https://github.com/Simon-TheUser/kubecon-na-2025/blob/main/demo-cluster/backstack-demo/App/demo-app-01.yaml
-  name: demo-app-01
+  name: demo-app-01 #demo
   namespace: backstack-demo
 spec:
   image: nginx:stable-alpine3.21-slim
